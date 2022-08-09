@@ -4,7 +4,7 @@
 
 <p>Software Developer, </p>
 
-- 📫 How to reach me **alexisjacksonlon213@gmail.com**
+#- 📫 How to reach me **alexisjacksonlon213@gmail.com**
 
 <div align="center">
 <h3 align="center"><img src="./src/estadistica2.gif" width="25px" height="25px">GitHub Stats</h3>
