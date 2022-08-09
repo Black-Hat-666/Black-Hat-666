@@ -1,10 +1,15 @@
 
 
-<h1 align="center" font-weigth="bold">¡ Hi 👋,  I'm Jackson !<img src="./src/wave.gif" width="30px"></h1>
+<h1 align="center" font-weigth="bold">¡ Hi 👋 !<img src="./src/wave.gif" width="30px"></h1>
 
-<p>Software Developer, </p>
+My name is Pablo, I'm from Argentina and I'm an SRE.
 
-- 📫 How to reach me **alexisjacksonlon213@gmail.com**
+* Currently studying at SENA as a software developer
+* Always eager to learn and delve into this great world of programming.
+
+## Contact
+
+* 📫 How to reach me **alexisjacksonlon213@gmail.com**
 
 <div align="center">
 <h3 align="center"><img src="./src/estadistica2.gif" width="25px" height="25px">GitHub Stats</h3>
