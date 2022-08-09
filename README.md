@@ -1,10 +1,10 @@
 
 
-<h1 align="center" font-weigth="bold">¡ Hi 👋 !<img src="./src/wave.gif" width="30px"></h1>
+<h1 align="center" font-weigth="bold">¡ Hello 👋 !<img src="./src/wave.gif" width="30px"></h1>
 
-My name is Pablo, I'm from Argentina and I'm an SRE.
+My name is Jackson, I'm from Colombia and I'm a software developer
 
-* Currently studying at SENA as a software developer
+* Currently studying at SENA as a Software Developer
 * Always eager to learn and delve into this great world of programming.
 
 ## Contact
