@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Jackson - Developer <img src="./src/wave.gif" width="30px"></h1>
 
 
-<h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
+<h3 align="center"><img src="./src/estadistica2.gif" width="25px" height="25px">GitHub Stats</h3>
 
 <div align="center">
   <a href="https://github.com/Black-Hat-666">
