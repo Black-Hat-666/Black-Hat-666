@@ -6,11 +6,11 @@
 
 
 
-<div>
+<div align"center">
 <h3 align="center"><img src="./src/estadistica2.gif" width="25px" height="25px">GitHub Stats</h3>
   <a href="https://github.com/Black-Hat-666">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Black-Hat-666&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-Hat-666&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Black-Hat-666&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-Hat-666&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 
