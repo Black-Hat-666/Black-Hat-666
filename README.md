@@ -2,6 +2,9 @@
 
 <h1 align="center">Hi there, I'm Jackson - Developer <img src="./src/wave.gif" width="30px"></h1>
 
+
+<h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
+
 <!--
 **Black-Hat-666/Black-Hat-666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
