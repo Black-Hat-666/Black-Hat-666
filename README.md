@@ -4,7 +4,7 @@
 
 My name is Jackson, I'm from Colombia and I'm a software developer
 
-* Currently studying at SENA as a Software Developer
+* Currently studying at SENA as a Software Developer.
 * Always eager to learn and delve into this great world of programming.
 
 ## Contact
@@ -17,6 +17,10 @@ My name is Jackson, I'm from Colombia and I'm a software developer
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Black-Hat-666&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-Hat-666&layout=compact&langs_count=7&theme=radical"/>
 </div>
+  
+  
+![Snake animation](https://github.com/Black-Hat-666/Black-Hat-666/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <h3 align="center">Basic knowledge | Intermediates:</h3>
