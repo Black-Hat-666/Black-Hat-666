@@ -2,11 +2,11 @@
 
 <h1 align="center" font-weigth="bold">console.log('Hi there, I'm Jackson!!👋')<img src="./src/wave.gif" width="30px"></h1>
 
-<p>Software engineer, a personal project dedicated to help other developers to increase their technical skills in web design, web development, problems solving, and more. My main programming languages/platforms are: Javascript, Typescript, Node.js, Azure, PHP and Kotlin.</p>
+<p>Software Developer, </p>
 
 
 
-<div align"center";>
+<div justify-content"center">
 <h3 align="center"><img src="./src/estadistica2.gif" width="25px" height="25px">GitHub Stats</h3>
   <a href="https://github.com/Black-Hat-666">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Black-Hat-666&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
