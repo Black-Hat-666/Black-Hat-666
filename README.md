@@ -1,6 +1,6 @@
 
 
-<h1 align="center" font-weigth="bold">¡¡Hi 👋,  I'm Jackson!!<img src="./src/wave.gif" width="30px"></h1>
+<h1 align="center" font-weigth="bold">¡ Hi 👋,  I'm Jackson !<img src="./src/wave.gif" width="30px"></h1>
 
 <p>Software Developer, </p>
 
