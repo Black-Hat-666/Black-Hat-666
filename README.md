@@ -2,7 +2,7 @@
 
 <h1 font-weigth="bold">¡ Hola 👋 !<img src="./src/wave.gif" width="30px"></h1>
 
-My nombre es Jackson, Soy de colombia y estudio Desarrolo de Software.
+My nombre es Jackson y soy de Colombia.
 
 * Actualmente estudiando en el SENA como Desarrollador de Software..
 * Siempre con ganas de aprender y adentrarme en este gran mundo de la programación.
@@ -10,6 +10,8 @@ My nombre es Jackson, Soy de colombia y estudio Desarrolo de Software.
 ## Contacto
 
 * 📫 Como llegar a mi: **Jalondono5944@misena.edu.co**
+
+
 
 <div align="center">
 <h3 align="center"><img src="./src/estadistica2.gif" width="25px" height="25px">GitHub Stats</h3>
