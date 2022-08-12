@@ -11,7 +11,7 @@ My nombre es Jackson y soy de Colombia.
 
 * 📫 Como llegar a mi: **Jalondono5944@misena.edu.co**
 
-
+![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
 <h3 align="center"><img src="./src/estadistica2.gif" width="25px" height="25px">GitHub Stats</h3>
