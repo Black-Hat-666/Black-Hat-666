@@ -2,7 +2,7 @@
 
 <h1 font-weigth="bold">¡ Hola 👋 !<img src="./src/wave.gif" width="30px"></h1>
 
-My nombre es Jackson y soy de Colombia.
+Mi nombre es Jackson y soy de Colombia.
 
 * Actualmente estudiando en el SENA como Desarrollador de Software..
 * Siempre con ganas de aprender y adentrarme en este gran mundo de la programación.
