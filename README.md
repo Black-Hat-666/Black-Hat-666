@@ -9,7 +9,7 @@ Mi nombre es Jackson.
 
 ## Contacto
 
-* 📫 Como llegar a mi: **Jalondono5944@misena.edu.co**
+* 📫 Como llegar a mi: **alexisjacksonlon213@gmail.com**
 
 <div align="left">
 <h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px">GitHub Stats</h3>
